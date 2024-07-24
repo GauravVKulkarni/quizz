@@ -1,7 +1,7 @@
 
 # Quizz
 
-An online quiz platform to test your knowledge and conduct quiz contest.
+An online quiz platform to test your knowledge and conduct quiz contests.
 
 
 ## Authors
