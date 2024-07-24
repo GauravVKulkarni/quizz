@@ -15,9 +15,7 @@ An online quiz platform to test your knowledge and conduct quiz contests.
 
 Contributions are always welcome!
 
-See `contributing.md` for ways to get started.
-
-Please adhere to this project's `code of conduct`.
+Contact me when you have an idea.
 
 
 ## Tech Stack
