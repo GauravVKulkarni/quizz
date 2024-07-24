@@ -1,9 +1,7 @@
 
 # Quizz
 
-<<<<<<< HEAD
 An online quiz platform to test your knowledge and conduct quiz contests.
->>>>>>> refs/remotes/origin/main
 
 
 ## Authors
@@ -23,6 +21,4 @@ Contact me when you have an idea.
 **Client:** React
 
 
-=======
 ...in progess
->>>>>>> refs/remotes/origin/main
